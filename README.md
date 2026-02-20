@@ -1,7 +1,5 @@
 # PreventBlocks
 
-================================
-
 ![Created At](https://img.shields.io/badge/created_at-february_2026-brightgreen)
 [![PreventBlocks license: GPLv3](https://img.shields.io/badge/license-GPLv3-orange)](LICENSE)
 [![Paper](https://img.shields.io/badge/Paper-1.21.1-blue)](https://papermc.io)
