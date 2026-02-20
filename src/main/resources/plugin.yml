@@ -1,0 +1,20 @@
+name: PreventBlocks
+version: '${project.version}'
+main: com.akquenti.preventblocks.PreventBlocks
+api-version: '1.21'
+author: akquenti
+description: Blocks placement of specific blocks in specified worlds
+
+commands:
+  preventblocks:
+    description: Main plugin command
+    usage: /<command> [reload|list]
+    aliases: [pb]
+
+permissions:
+  preventblocks.bypass:
+    description: Allows placing blocked blocks
+    default: op
+  preventblocks.admin:
+    description: Admin permissions (reload config, view list)
+    default: op
