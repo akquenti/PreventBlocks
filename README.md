@@ -89,6 +89,11 @@ notify-admins: true
 notify-player: true
 ```
 
+## TODO
+
+- [ ] Add support for multiple worlds in separate lists
+- [ ] Add bypass permission for specific blocks
+
 ## Support
 
 - 📧 Create an [Issue](https://github.com/akquenti/PreventBlocks/issues)
