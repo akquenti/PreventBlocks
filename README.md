@@ -53,7 +53,7 @@ Pre-built versions can also be found on the [Releases](https://github.com/akquen
 | `preventblocks.admin` | Admin permissions (reload, list) | `op` |
 
 ## Config
-
+```yaml
 # Message shown to player when trying to place blocked block
 message: "&cYou cannot place this block here!"
 
@@ -87,6 +87,7 @@ notify-admins: true
 
 # Send message to player when trying to place blocked block
 notify-player: true
+```
 
 ## Support
 
